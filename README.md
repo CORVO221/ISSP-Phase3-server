@@ -18,6 +18,6 @@ As a reference, here's the mapping of pairs to eeg files that use the two stimul
 'pair15': [79, 82, 84, 81, 80, 83, 85], 
 For the attention prediction you can use the beamformed signals, however, a ground truth signal is provided. Also, collect evaluation metrics to discuss in the report.
 
-The mapping between each audio pair and the corresponding EEG subjects can be found in issp_data.py
+The mapping between each audio pair and the corresponding EEG subjects can be found in `issp_data.py`
 
 
